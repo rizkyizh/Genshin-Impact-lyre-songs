@@ -14,7 +14,7 @@ collection of lyre songs with macro recording to run a song on Windsong Lyre in 
 ![open & selected file](img/open%20%26%20selected%20file.PNG)
 
 6. click play
-![play](img/open%20%26%20selected%20file.PNG)
+![play](img/clickplay.PNG)
 
 7. it runs automatically, click pause first (ctrl+P). click play again when in the game genshin impact
 ![paused & resume](img/pause.png)
